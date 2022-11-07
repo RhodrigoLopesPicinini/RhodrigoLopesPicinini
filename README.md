@@ -1,4 +1,4 @@
-### :speech_balloon: What's up? Glad to meet you!! 👋
+### :speech_balloon: What's up? I'm Rhodrigo Picinini! Glad to meet you!! 👋
 
 #### My LinkedIn:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhodrigo-lopes-picinini-0b3636213/)
