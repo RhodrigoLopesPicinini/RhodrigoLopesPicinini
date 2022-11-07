@@ -5,7 +5,7 @@
 
 :desktop_computer: About my technical development...
 
-At now I'm just searching for something to stick with it. I'm curious about a lot of things regarding to software development! So what am I doing right now?
+Now I'm just searching for something to stick with it. I'm curious about a lot of things regarding to software development! So what am I doing right now?
 
 - 🌱 I'm currently learning HTML5
 
